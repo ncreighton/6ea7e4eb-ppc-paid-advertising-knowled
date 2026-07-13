@@ -1,2 +1,34 @@
-# 6ea7e4eb-ppc-paid-advertising-knowled
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  24/7 operation — runs on your server or scales to any hosting platform. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Ppc &amp; Paid Advertising Knowledge Base And Wiki — fully configured and ready to use
+# PPC & Paid Advertising Knowledge Base and Wiki Discord Bot
+
+Searchable FAQ, auto-responses to common questions, and contribution tracking. Community-maintained knowledge that reduces repetitive questions.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w28r12D4scbRSavOcZK45)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w28r12D4scbRSavOcZK45)
+
